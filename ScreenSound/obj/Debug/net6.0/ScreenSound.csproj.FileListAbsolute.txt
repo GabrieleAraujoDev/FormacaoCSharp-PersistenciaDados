@@ -61,3 +61,16 @@ C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\obj\Debug\net6.0\refint\S
 C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
 C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
 C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\gabyc\Documents\GitHub\CSharp-Web\ScreenSound\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

@@ -4,13 +4,14 @@ using ScreenSound.Modelos;
 
 try
 {
-    var artistaDAL = new ArtistaDAL();
-    /*    artistaDAL.Adicionar(new Artista("Foo Fighters", "Foo Fighters é uma banda de rock alternativo americana formada por Dave Grohl em 1995."));*/
+    var context = new ScreenSoundContext();
+    var artistaDAL = new ArtistaDAL(context);
 
-    var artistaPitty = new Artista("Pitty", "Priscilla Novaes Leone, mais conhecida como Pitty, é uma cantora, compositora, produtora, escritora e multi-instrumentista brasileira.") { Id = 1003 };
+    var novoArtista = new Artista("Gilberto Gil", "Gilberto Passos Gil Moreira é um cantor, compositor, multi-instrumentista.") { Id = 1003 };
 
-    artistaDAL.Atualizar(artistaPitty);
-    artistaDAL.Deletar(artistaPitty);
+    //artistaDAL.Adicionar(novoArtista);
+    //artistaDAL.Atualizar(novoArtista);
+    //artistaDAL.Deletar(novoArtista);
 
     var listaArtistas = artistaDAL.Listar();
 
