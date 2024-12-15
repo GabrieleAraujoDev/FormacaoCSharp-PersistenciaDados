@@ -4,10 +4,15 @@ using ScreenSound.Modelos;
 
 try
 {
-    var artistaDAO = new ArtistaDAL();
-    artistaDAO.Adicionar(new Artista("Foo Fighters", "Foo Fighters é uma banda de rock alternativo americana formada por Dave Grohl em 1995."));
+    var artistaDAL = new ArtistaDAL();
+    /*    artistaDAL.Adicionar(new Artista("Foo Fighters", "Foo Fighters é uma banda de rock alternativo americana formada por Dave Grohl em 1995."));*/
 
-    var listaArtistas = artistaDAO.Listar();
+    var artistaPitty = new Artista("Pitty", "Priscilla Novaes Leone, mais conhecida como Pitty, é uma cantora, compositora, produtora, escritora e multi-instrumentista brasileira.") { Id = 1003 };
+
+    artistaDAL.Atualizar(artistaPitty);
+    artistaDAL.Deletar(artistaPitty);
+
+    var listaArtistas = artistaDAL.Listar();
 
     foreach ( var artist in listaArtistas)
     {
