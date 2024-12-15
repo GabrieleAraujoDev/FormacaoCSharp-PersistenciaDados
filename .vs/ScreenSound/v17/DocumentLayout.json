@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\banco\\artistadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banco\\artistadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\banco\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banco\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArtistaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Banco\\ArtistaDAO.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Banco\\ArtistaDAO.cs",
+              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Banco\\ArtistaDAO.cs",
+              "RelativeToolTip": "ScreenSound\\Banco\\ArtistaDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwDAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:43:19.728Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,20 +45,20 @@
               "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
               "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Program.cs",
               "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T23:47:50.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Connection.cs",
               "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Banco\\Connection.cs",
               "RelativeDocumentMoniker": "ScreenSound\\Banco\\Connection.cs",
               "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Banco\\Connection.cs",
               "RelativeToolTip": "ScreenSound\\Banco\\Connection.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwCcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-11T23:47:47.145Z",
               "EditorCaption": ""
