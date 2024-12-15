@@ -8,7 +8,7 @@ using ScreenSound.Modelos;
 
 namespace ScreenSound.Banco
 {
-    internal class ArtistaDAO
+    internal class ArtistaDAL
     {
         public IEnumerable<Artista> Listar()
         {
