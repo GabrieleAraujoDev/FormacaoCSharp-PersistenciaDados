@@ -3,60 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Migrations\\20241216233906_AdicionarColunaAnoLancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScreenSound\\Migrations\\20241216233906_AdicionarColunaAnoLancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\modelos\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\modelos\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Migrations\\20241216233606_PopularTabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScreenSound\\Migrations\\20241216233606_PopularTabela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\banco\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banco\\screensoundcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Migrations\\20241216233239_projetoInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ScreenSound\\Migrations\\20241216233239_projetoInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\menus\\menusair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menusair.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\banco\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\menus\\menuregistrarartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuregistrarartista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\menus\\menumostrarmusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menumostrarmusicas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\menus\\menumostrarartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menumostrarartistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\screensound.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\screensound.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\gabyc\\documents\\github\\csharp-web\\screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\menus\\menuregistrarmusica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,21 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20241216233906_AdicionarColunaAnoLancamento.cs",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Migrations\\20241216233906_AdicionarColunaAnoLancamento.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Migrations\\20241216233906_AdicionarColunaAnoLancamento.cs",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Migrations\\20241216233906_AdicionarColunaAnoLancamento.cs",
-              "RelativeToolTip": "ScreenSound\\Migrations\\20241216233906_AdicionarColunaAnoLancamento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:39:06.84Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -89,165 +36,50 @@
               "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Musica.cs",
               "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Modelos\\Musica.cs",
               "RelativeToolTip": "ScreenSound\\Modelos\\Musica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T23:38:27.805Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241216233606_PopularTabela.cs",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Migrations\\20241216233606_PopularTabela.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Migrations\\20241216233606_PopularTabela.cs",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Migrations\\20241216233606_PopularTabela.cs",
-              "RelativeToolTip": "ScreenSound\\Migrations\\20241216233606_PopularTabela.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABHAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Modelos\\Artista.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Modelos\\Artista.cs",
+              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Modelos\\Artista.cs",
+              "RelativeToolTip": "ScreenSound\\Modelos\\Artista.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:36:06.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20241216233239_projetoInicial.cs",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Migrations\\20241216233239_projetoInicial.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Migrations\\20241216233239_projetoInicial.cs",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Migrations\\20241216233239_projetoInicial.cs",
-              "RelativeToolTip": "ScreenSound\\Migrations\\20241216233239_projetoInicial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:32:39.272Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ScreenSoundContext.cs",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Banco\\ScreenSoundContext.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Banco\\ScreenSoundContext.cs",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Banco\\ScreenSoundContext.cs",
-              "RelativeToolTip": "ScreenSound\\Banco\\ScreenSoundContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:27:28.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MenuSair.cs",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuSair.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuSair.cs",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuSair.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuSair.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:27:17.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MenuRegistrarMusica.cs",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarMusica.cs",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarMusica.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:27:12.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MenuRegistrarArtista.cs",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuRegistrarArtista.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarArtista.cs",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuRegistrarArtista.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarArtista.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:27:07.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuMostrarMusicas.cs",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuMostrarMusicas.cs",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuMostrarMusicas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:27:01.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MenuMostrarArtistas.cs",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuMostrarArtistas.cs",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuMostrarArtistas.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\MenuMostrarArtistas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:26:24.642Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ScreenSound.csproj",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\ScreenSound.csproj",
-              "RelativeDocumentMoniker": "ScreenSound\\ScreenSound.csproj",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\ScreenSound.csproj",
-              "RelativeToolTip": "ScreenSound\\ScreenSound.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T23:25:20.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\Menu.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Menus\\Menu.cs",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\Menu.cs",
-              "RelativeToolTip": "ScreenSound\\Menus\\Menu.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:19:09.083Z",
+              "WhenOpened": "2024-12-20T23:04:25.653Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Program.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Program.cs",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Program.cs",
-              "RelativeToolTip": "ScreenSound\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAVAAAAAAAAAA==",
+              "Title": "MenuMostrarMusicas.cs",
+              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuMostrarMusicas.cs",
+              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuMostrarMusicas.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuMostrarMusicas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:16:02.684Z",
+              "WhenOpened": "2024-12-20T23:12:29.924Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DAL.cs",
-              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Banco\\DAL.cs",
-              "RelativeDocumentMoniker": "ScreenSound\\Banco\\DAL.cs",
-              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Banco\\DAL.cs",
-              "RelativeToolTip": "ScreenSound\\Banco\\DAL.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwCgAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MenuRegistrarMusica.cs",
+              "DocumentMoniker": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "RelativeDocumentMoniker": "ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "ToolTip": "C:\\Users\\gabyc\\Documents\\GitHub\\CSharp-Web\\ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "RelativeToolTip": "ScreenSound\\Menus\\MenuRegistrarMusica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T23:07:03.069Z",
+              "WhenOpened": "2024-12-20T23:11:15.408Z",
               "EditorCaption": ""
             }
           ]
